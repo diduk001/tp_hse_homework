@@ -33,19 +33,19 @@ public class NumbersReader {
         mult *= x;
     }
 
-    public long getMin() {
+    public long _min() {
         return min;
     }
 
-    public long getMax() {
+    public long _max() {
         return max;
     }
 
-    public long getMult() {
+    public long _mult() {
         return mult;
     }
 
-    public long getSum() {
+    public long _sum() {
         return sum;
     }
 
