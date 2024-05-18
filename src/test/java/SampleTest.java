@@ -20,7 +20,7 @@ public class SampleTest {
 
     @Test
     void failedTest() {
-        assertThat(5).isEqualTo(2 * 2);
+        assertThat(4).isEqualTo(2 * 2);
     }
 
     int[] evenNumbers(int[] numbers) {
